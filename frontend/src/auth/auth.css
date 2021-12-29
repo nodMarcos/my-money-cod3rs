@@ -1,8 +1,5 @@
 .wrapper {
-    background-image: url('../../public/WAGNER.png');
-    background-size: 1500px 500px;
-    background-repeat: no-repeat;
-
+    background-color: #fff !important;
 }
 .login-box-body {
     background-color: #eee;

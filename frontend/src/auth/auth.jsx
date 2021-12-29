@@ -31,7 +31,7 @@ class Auth extends Component {
 
         return (
             <div className="login-box">
-                <div className="login-logo"><b> My</b> Money <b style={{color: '#FFF'}}>by WAGNER CARDOSO</b></div>
+                <div className="login-logo"><b> My</b> Money</div>
                 <div className="login-box-body">
                     <p className="login-box-msg">Bem vindo!</p>
                     <form onSubmit={handleSubmit(v => this.onSubmit(v))}>
